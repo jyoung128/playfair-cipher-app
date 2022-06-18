@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JRYPlayfairCipherLab5", "JRYPlayfairCipherLab5\JRYPlayfairCipherLab5.csproj", "{2A6FDCEE-E990-40FA-BBEE-BA80A18DB683}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A6FDCEE-E990-40FA-BBEE-BA80A18DB683}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A6FDCEE-E990-40FA-BBEE-BA80A18DB683}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A6FDCEE-E990-40FA-BBEE-BA80A18DB683}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A6FDCEE-E990-40FA-BBEE-BA80A18DB683}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9AFF0659-0561-4C99-A025-8C479FF5AD64}
+	EndGlobalSection
+EndGlobal

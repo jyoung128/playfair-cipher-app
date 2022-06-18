@@ -1,0 +1,10 @@
+C:\Users\Jonah\source\repos\JRYPlayfairCipherLab5\JRYPlayfairCipherLab5\bin\Debug\JRYPlayfairCipherLab5.exe.config
+C:\Users\Jonah\source\repos\JRYPlayfairCipherLab5\JRYPlayfairCipherLab5\bin\Debug\JRYPlayfairCipherLab5.exe
+C:\Users\Jonah\source\repos\JRYPlayfairCipherLab5\JRYPlayfairCipherLab5\bin\Debug\JRYPlayfairCipherLab5.pdb
+C:\Users\Jonah\source\repos\JRYPlayfairCipherLab5\JRYPlayfairCipherLab5\obj\Debug\JRYPlayfairCipherLab5.csprojAssemblyReference.cache
+C:\Users\Jonah\source\repos\JRYPlayfairCipherLab5\JRYPlayfairCipherLab5\obj\Debug\JRYPlayfairCipherLab5.Form1.resources
+C:\Users\Jonah\source\repos\JRYPlayfairCipherLab5\JRYPlayfairCipherLab5\obj\Debug\JRYPlayfairCipherLab5.Properties.Resources.resources
+C:\Users\Jonah\source\repos\JRYPlayfairCipherLab5\JRYPlayfairCipherLab5\obj\Debug\JRYPlayfairCipherLab5.csproj.GenerateResource.cache
+C:\Users\Jonah\source\repos\JRYPlayfairCipherLab5\JRYPlayfairCipherLab5\obj\Debug\JRYPlayfairCipherLab5.csproj.CoreCompileInputs.cache
+C:\Users\Jonah\source\repos\JRYPlayfairCipherLab5\JRYPlayfairCipherLab5\obj\Debug\JRYPlayfairCipherLab5.exe
+C:\Users\Jonah\source\repos\JRYPlayfairCipherLab5\JRYPlayfairCipherLab5\obj\Debug\JRYPlayfairCipherLab5.pdb
